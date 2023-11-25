@@ -1,4 +1,6 @@
+/* graph.css */
 perspective-viewer {
-  height: 50vh;
-  width: 700px;
+  width: 900px; /* Adjust the width as needed */
+  height: 80vh;
+  margin: auto; /* Center the viewer */
 }
